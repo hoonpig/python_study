@@ -10,7 +10,7 @@ screen = pygame.display.set_mode((screen_width, screen_height))
 #화면 타이틀 설정
 pygame.display.set_caption("hoonpig game")  # 게임이름
 
-# FPS 설정
+# FPS 설정  
 clock = pygame.time.Clock()
 
 #배경이미지 불러오기

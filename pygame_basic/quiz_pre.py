@@ -10,7 +10,7 @@
 # [게임이미지]
 # 1. 배경 : 480 * 640 - background.png
 # 2. 캐릭터 : 70 * 70 - character.png
-# 3. 똥 :     70 * 70 - enemy.png
+# 3. 똥 :     70 * 70 - enemy.png 
 
 import pygame
 import random
